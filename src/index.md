@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Ron Bronson
 postsHeading: 
 archiveButtonText: See all posts
 socialImage: ''
