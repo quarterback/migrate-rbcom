@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
+      "text": "About",
+      "url": "http://ronbronson.com",
+      "external": true
     },
     {
       "text": "Twitter",
