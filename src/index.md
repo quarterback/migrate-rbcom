@@ -1,14 +1,9 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
+title: Ron Bronson
+postsHeading: 
 archiveButtonText: See all posts
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
-CMS](https://forestry.io/) pre-configured, so that you can one-click install a
-progressive, accessible blog in minutes. It also gives you a well organised
-starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia)
+Ron Bronson is an experience designer, information architect, digital director, and speaker. He works on large-scale digital transformation projects, collaborates with developers & other designers to build digital products, interfaces, and migrate large sites successfully. He's been on stage at conferences around the world discussing diverse topics around the user experience. Right now, he leads the product design team at 18F.
