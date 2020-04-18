@@ -9,7 +9,11 @@ tags:
 
 A place where service design & user experience are falling short is thinking about the areas where experiences (both experiential and transactional) and interactions that were once human to human (like cashier purchases or customer help lines) are now being delegated to screens or chatbots.
 
+![](/images/chat.png)
+
 I think of kiosks and chatbots as liminal, because the [friction](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.dtelepathy.com%2Fblog%2Fbusiness%2Fstrategic-ux-the-art-of-reducing-friction&t=ZDgwMjY3YjE3OGJiYmVmNThjYzlmZWNjOTI4OTU3NzVkYTliYWViYSxXUmp1MENmdw%3D%3D&b=t%3A9kRtZeCTmM79cxjYm3jNUQ&p=https%3A%2F%2Fwhoisronbronson.tumblr.com%2Fpost%2F190748064225%2Fliminal-ux&m=0) that using non-human interactions introduces to customers that didn’t exist previously. (And yes, I realize that self-checkout lanes cut down on long lines. But how many times have you seen long lines to self-checkout, like we used to see on “express” lanes?)
+
+![](/images/ticket.jpg)
 
 But there are a whole range of UIs that pervade everyday life from video games to transit kiosks that lack the care, attention, and design detail that we apply to slick apps on phones.
 
